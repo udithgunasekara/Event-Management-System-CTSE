@@ -75,7 +75,7 @@ export default function AdminDashboard() {
         }}
       >
         <div>
-          <h3 style={{ color: 'white', fontSize: 17, fontWeight: 700, marginBottom: 4 }}>
+          <h3 style={{ color: 'red', fontSize: 17, fontWeight: 700, marginBottom: 4 }}>
             Ready to create a new event?
           </h3>
           <p style={{ color: 'rgba(255,255,255,0.75)', fontSize: 13 }}>
